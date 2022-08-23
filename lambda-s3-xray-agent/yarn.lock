@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.990.0":
+  version "1.990.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.990.0.tgz#cf79f8fde4e166667135bcfc05c977b61fdbda7e"
+  integrity sha512-YmuBFhNpgX5kmSz/WE/lyX4j5jXqEKMydKco0+DxDhCpw8me8p6JBpWl9Y+LhzVECD9NnAqTKc5mp42Px4TJjw==
+
 async-listener@^0.6.0:
   version "0.6.9"
   resolved "https://registry.yarnpkg.com/async-listener/-/async-listener-0.6.9.tgz#51bc95e41095417f33922fb4dee4f232b3226488"
